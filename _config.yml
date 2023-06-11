@@ -2,7 +2,7 @@ title: Jiasheng Qu # your name (or website title) here
 logo: "/images/logo.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I love data!
-  I want some pizza  <br><br>
+  Data-driven!  <br><br>
   <a href="https://www.linkedin.com/in/jiashengqu/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
